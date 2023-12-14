@@ -26,7 +26,7 @@ What you need to install the software:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/StemSplitter.git
+    git clone rhttps://github.com/jinoAlgon/StemSplitter-Audio-Separation-Server.git
     cd StemSplitter
     ```
 
